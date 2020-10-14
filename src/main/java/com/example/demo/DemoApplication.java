@@ -11,11 +11,6 @@ public class DemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
-//vu dep trai
-        //vcvxcvx
-        //nhat nha
-        System.out.println("hi");
-        System.out.println("hello");
     }
 
 }
