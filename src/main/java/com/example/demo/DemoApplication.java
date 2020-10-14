@@ -14,6 +14,7 @@ public class DemoApplication {
 //vu dep trai
         //vcvxcvx
         //nhat nha
+        System.out.println("hi");
         System.out.println("hello");
     }
 
