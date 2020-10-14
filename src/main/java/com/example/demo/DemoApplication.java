@@ -15,6 +15,7 @@ public class DemoApplication {
         //vcvxcvx
         //nhat nha
         System.out.println("hi");
+        System.out.println("hello");
     }
 
 }
