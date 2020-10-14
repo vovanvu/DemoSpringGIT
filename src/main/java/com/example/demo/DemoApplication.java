@@ -13,6 +13,7 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
 //vu dep trai
         //nhat nha
+        System.out.println("hello");
     }
 
 }
