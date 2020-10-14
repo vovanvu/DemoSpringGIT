@@ -15,6 +15,7 @@ public class HelloController {
     @GetMapping("/sum")
     public String hello(@RequestParam(value = "n1", defaultValue = "0") int n1,
                         @RequestParam(value = "n2", defaultValue = "0") int n2) {
-        return String.format("Result wrong %s!", n1 - n2);
+        System.out.println("hello from feature1");
+        return String.format("Result %s!", n1 + n2);
     }
 }
